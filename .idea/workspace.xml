@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2243a543-ffc2-4dc4-b5e5-ac8b49ddb8f0" name="Changes" comment="" />
+    <list default="true" id="2243a543-ffc2-4dc4-b5e5-ac8b49ddb8f0" name="Changes" comment="add README.md">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/components/Appearance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/components/Attack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/components/Damage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/components/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/components/Strength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/components/Vitality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/core/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/core/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/core/EntityManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/core/System.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/systems/Battle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/systems/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tower/util/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G0m7SZ0PRY4Iqm1Kjw9PZma4k5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -17,9 +55,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/Users/goolu/Projects/tower/src/main/java/tower/components",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="tower.core" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="tower.components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="tower" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,8 +95,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665533708572</updated>
+      <workItem from="1665533710235" duration="5008000" />
+      <workItem from="1665614898179" duration="11768000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1665533765156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665533765156</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add README.md">
+      <created>1665533810290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665533810290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -41,5 +128,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
   </component>
 </project>
